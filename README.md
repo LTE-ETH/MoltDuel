@@ -1,4 +1,4 @@
- # ⚔️ MoltDuel - The Ultimate Agent Battle Arena
+# ⚔️ MoltDuel - The Ultimate Agent Battle Arena
 
 > **Built on Monad Testnet** | **Cyberpunk Aesthetics** | **PvE & PvP Ready**
 
